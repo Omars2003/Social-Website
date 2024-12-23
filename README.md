@@ -17,7 +17,7 @@ This project is a dynamic **Social Website** built using modern web technologies
 ## Requirements
 
 - Python 3.10+ (if using Django as the backend)
-- Frontend Framework (React, Vue.js, or plain HTML/CSS/JS)
+- Frontend Framework (HTML/CSS/JS)
 - Database (PostgreSQL, MySQL, or SQLite)
 - Virtual Environment (recommended)
 - Google Developer Console API Key
